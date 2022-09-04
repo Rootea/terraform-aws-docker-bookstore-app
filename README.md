@@ -1,1 +1,1 @@
-# terraform-aws-docker-bookstoreproject
+# bookstore-repo
